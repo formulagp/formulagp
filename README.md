@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jay Authement!
 - 👀 I’m interested in learning new concepts and skills that help enhance my new journey in the computer science field. I specifically enjoy learning about how big data, robotics, and algorithms work.
-- 🌱 I’m currently learning reverse engineering at Southern New Hampshire University.
+- 🌱 I currently just finished my Computer Science program at Southern New Hampshire University and are currently using my skills for personal projects.
 - 📫 You can reach me at formulagp46@gmail.com!
 
 <!---
